@@ -1,0 +1,37 @@
+{
+  "site_name": "Braun Elektrotechnik GmbH",
+  "branche": "Elektrotechnik",
+  "stadt": "Stuttgart",
+  "telefon": "",
+  "email": "info@braunelektrotechnik.de",
+  "adresse": "",
+  "akzent": "#F5A623",
+  "fotos": [],
+  "hero_image": "",
+  "headline": "Ihr Elektromeister in Stuttgart",
+  "subline": "Von der Steckdose bis zur Photovoltaik – fachgerecht, pünktlich und sicher umgesetzt.",
+  "ueber_titel": "Elektrotechnik mit Handschlagqualität",
+  "ueber_text": "Die Braun Elektrotechnik GmbH steht in Stuttgart und Umgebung für saubere Arbeit und ehrliche Beratung. Als Meisterbetrieb übernehmen wir Privat- und Gewerbeprojekte – termintreu, normgerecht und mit echtem Service vor Ort.",
+  "leistungen": [
+    {
+      "titel": "Elektroinstallation",
+      "text": "Neuinstallation und Sanierung von Leitungen, Verteilern und Steckdosen – im Neubau wie im Bestand."
+    },
+    {
+      "titel": "Photovoltaik & Speicher",
+      "text": "Planung und Montage von Solaranlagen inklusive Stromspeicher und Wallbox für Ihr E-Auto."
+    },
+    {
+      "titel": "Smart Home",
+      "text": "Intelligente Steuerung von Licht, Heizung und Beschattung – komfortabel und energiesparend."
+    },
+    {
+      "titel": "E-Check & Sicherheit",
+      "text": "Prüfung Ihrer Elektroanlagen nach DIN-Norm sowie Installation von Rauchmeldern und Blitzschutz."
+    }
+  ],
+  "cta_text": "Jetzt kostenloses Angebot anfordern",
+  "seo_title": "Braun Elektrotechnik GmbH – Elektriker & Photovoltaik in Stuttgart",
+  "seo_desc": "Ihr Elektro-Meisterbetrieb in Stuttgart: Elektroinstallation, Photovoltaik, Smart Home & E-Check. Pünktlich, sicher, fair. Jetzt Angebot anfordern!",
+  "jahr": 2026
+}
