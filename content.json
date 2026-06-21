@@ -2,32 +2,70 @@
   "site_name": "Braun Elektrotechnik",
   "branche": "Elektrotechnik",
   "stadt": "Stuttgart",
-  "akzent": "#f5a623",
+  "akzent": "#1B5FA3",
   "jahr": "2025",
-
-  "seo_title": "Braun Elektrotechnik GmbH Stuttgart | Elektroinstallation, Smart Home & Wallbox",
-  "seo_desc": "Meisterbetrieb fur Elektroinstallation, Smart Home, E-Mobilitat und Energietechnik in Stuttgart. 4,6 Sterne. Jetzt kostenloses Angebot anfordern.",
-
+  "seo_title": "Braun Elektrotechnik Stuttgart | Elektroinstallation vom Meister",
+  "seo_desc": "Elektrotechnik aus Stuttgart: sichere Elektroinstallation, Smart Home, Wallbox & Reparaturen. Meisterbetrieb, termintreu & fair. Jetzt anfragen!",
   "telefon": "+497118060860",
   "email": "info@braunelektrotechnik.de",
   "adresse": "Heilbronner Str. 300, 70469 Stuttgart",
-
   "hero_image": "",
   "fotos": [],
-
-  "headline": "Strom & Warme aus einer Hand",
-  "subline": "Ihr Meisterbetrieb fur Elektroinstallation, Smart Home und Energietechnik in Stuttgart. Zuverlassig, sauber und termintreu - mit 4,6 von 5 Sternen.",
-  "cta_text": "Jetzt kostenloses Angebot anfordern",
-
+  "headline": "Elektrotechnik aus Stuttgart, auf die Sie zählen können",
+  "subline": "Sichere und moderne Elektroinstallationen vom Meisterbetrieb – fachgerecht, termintreu und sauber ausgeführt.",
+  "cta_text": "Jetzt kostenlos anfragen",
   "leistungen": [
-    { "titel": "Elektroinstallation", "text": "Neuinstallation, Sanierung und Erweiterung Ihrer Elektroanlage - im Neubau wie im Bestand, normgerecht und sauber ausgefuhrt." },
-    { "titel": "Smart Home", "text": "Intelligente Steuerung von Licht, Heizung und Sicherheit. Mehr Komfort und Effizienz fur Ihr Zuhause." },
-    { "titel": "E-Mobilitat & Wallbox", "text": "Installation und Anschluss Ihrer Ladestation - forderfahig und zukunftssicher fur Ihr Elektrofahrzeug." },
-    { "titel": "Energietechnik", "text": "Photovoltaik-Anbindung, Stromspeicher und effiziente Energielosungen - Strom und Warme aus einer Hand." },
-    { "titel": "Beleuchtung", "text": "Moderne LED-Konzepte fur Wohnraum, Buro und Aussenbereich - energiesparend und stimmungsvoll." },
-    { "titel": "Prufung & Wartung", "text": "E-Checks, Anlagenprufung und regelmassige Wartung fur Ihre Sicherheit und Werterhalt." }
+    {
+      "titel": "Elektroinstallation",
+      "text": "Komplette Elektroinstallationen für Neubau, Umbau und Sanierung – normgerecht und sauber verlegt."
+    },
+    {
+      "titel": "Reparatur & Störungsdienst",
+      "text": "Wir finden und beheben Defekte an Ihrer Elektrik zuverlässig und ohne lange Wartezeiten."
+    },
+    {
+      "titel": "Smart Home",
+      "text": "Intelligente Steuerung für Licht, Heizung und Beschattung – planbar und nachrüstbar in Ihrem Zuhause."
+    },
+    {
+      "titel": "Zählerschrank & Verteilung",
+      "text": "Modernisierung veralteter Verteilungen und Einbau neuer Zählerschränke nach aktuellem Standard."
+    },
+    {
+      "titel": "Beleuchtung",
+      "text": "Planung und Montage von LED-Beleuchtung für Wohnräume, Außenbereiche und Gewerbe."
+    },
+    {
+      "titel": "E-Mobilität & Wallbox",
+      "text": "Fachgerechte Installation Ihrer Ladestation zu Hause oder im Betrieb, inklusive Anschluss und Prüfung."
+    }
   ],
-
-  "ueber_titel": "Ihr Elektromeister in Stuttgart",
-  "ueber_text": "Die Braun Elektrotechnik GmbH steht in Stuttgart fur professionelle Elektroinstallation auf Meisterniveau. Vom klassischen Hausanschluss uber moderne Smart-Home-Losungen bis zur Wallbox fur Ihr Elektroauto realisieren wir Ihr Projekt sauber, termintreu und nach allen geltenden Normen. Unsere Kundinnen und Kunden bewerten uns mit 4,6 von 5 Sternen."
+  "ueber_titel": "Ihr Elektrobetrieb in Stuttgart",
+  "ueber_text": "Braun Elektrotechnik steht für solide Handwerksarbeit und verlässliche Elektroinstallationen in Stuttgart und der Region. Wir arbeiten nach aktuellen Normen und legen Wert auf saubere Ausführung und ehrliche Beratung. Ob Neubau, Sanierung oder Reparatur – Sie bekommen einen festen Ansprechpartner, der Termine einhält und mitdenkt. Was wir versprechen, halten wir auch.",
+  "kontakt_text": "Erzählen Sie uns von Ihrem Vorhaben – wir melden uns zeitnah und unverbindlich bei Ihnen zurück.",
+  "usps": [
+    "Meisterbetrieb mit Festpreisen",
+    "Termintreu und zuverlässig",
+    "Saubere Ausführung",
+    "Fester Ansprechpartner"
+  ],
+  "faq": [
+    {
+      "frage": "In welchem Umkreis sind Sie tätig?",
+      "antwort": "Wir arbeiten in Stuttgart und der näheren Umgebung. Bei größeren Projekten kommen wir auch weiter raus – sprechen Sie uns einfach an."
+    },
+    {
+      "frage": "Bekomme ich vorab ein Angebot?",
+      "antwort": "Ja. Nach einem Termin vor Ort erhalten Sie ein transparentes Angebot mit Festpreis, damit Sie genau wissen, was auf Sie zukommt."
+    },
+    {
+      "frage": "Übernehmen Sie auch kleine Reparaturen?",
+      "antwort": "Selbstverständlich. Vom defekten Schalter bis zur Störungssuche – auch kleinere Aufträge erledigen wir gewissenhaft."
+    },
+    {
+      "frage": "Installieren Sie auch Wallboxen für E-Autos?",
+      "antwort": "Ja, wir installieren und prüfen Ladestationen normgerecht. Auf Wunsch beraten wir auch zu Fördermöglichkeiten und passender Leistung."
+    }
+  ],
+  "claim": "Strom in sicheren Händen."
 }
